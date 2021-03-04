@@ -70,6 +70,9 @@ public with sharing class GeocodingService {
         public Decimal lon;
     }
 
+    public static void helloAbbas() {
+        System.debug('hello Abbas');
+    }
 
     public static void helloWorld(){
         System.debug('Testing....');
