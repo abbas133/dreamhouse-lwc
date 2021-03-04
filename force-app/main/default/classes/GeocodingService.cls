@@ -70,10 +70,14 @@ public with sharing class GeocodingService {
         public Decimal lon;
     }
 
+
+    public static void helloWorld(){
+        System.debug('Testing....');
+    }
+  
     public static void helloayushi(){
         System.debug('helllo ayu,.....');
     }
-
 
     public static void helloPreeti() {
         System.debug('Testing ... ');
