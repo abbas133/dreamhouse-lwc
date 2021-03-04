@@ -69,7 +69,21 @@ public with sharing class GeocodingService {
         @InvocableVariable
         public Decimal lon;
     }
+
     public static void helloayushi(){
         System.debug('helllo ayu,.....');
+    }
+
+
+    public static void helloPreeti() {
+        System.debug('Testing ... ');
+    }
+
+    public static void helloAasawari() {
+        System.debug('Hello Aasawari');
+    }
+
+    public static void anotherChange() {
+        System.debug('... another change from abbas');
     }
 }
